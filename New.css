@@ -1,0 +1,21 @@
+
+.hero{position: relative;}
+.banner{height: 100vh;
+width:100%;
+}
+		h1 {color: white;
+			font-family: 'Source Sans Pro', sans-serif;
+			font-weight: bold;
+			position: absolute;
+			font-size: 5em;
+			left:20px;
+			top: 1px;
+			font-color
+			text-shadow: 3px white;
+			}
+
+		span {background: rgba(0, 0, 0, 0.1);
+
+		}	
+	
+	
