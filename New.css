@@ -1,20 +1,27 @@
-html{margin: -10px;}
-.hero{position: relative;}
-.banner{width:100%;
+body {margin: 0;}
+.hero{position: relative;
+	background-image: url("banner_image.jpg");
+	background-size: cover;
+	background-position: 100% 100%;
+	width:100vw;
 	height: 100vh;
 	}
-		h1 {color: white;
+		h1 {position:absolute;
+			margin: 0 auto;
+			color: white;
 			font-family: 'Source Sans Pro', sans-serif;
+			text-align: center;
 			font-weight: bold;
-			position: absolute;
+			top: 30px;
 			font-size: 5em;
-			left:20px;
-			top: 1px;
-			font-color
 			text-shadow: 3px white;
 			}
 
-		span {background: rgba(0, 0, 0, 0.1);
+		.header{display: flex;
+			justify-content: center;
+				}
+						
 
-		}	
+		
+	
 	
